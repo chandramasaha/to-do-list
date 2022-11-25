@@ -30,6 +30,9 @@ h1{
         height: 70px;
         background: #FFFFFF;
         border-radius: 20px;
+        font-family: 'Poppins';
+        font-size: 20px;
+        margin: 20px;
         }
 
 .items {
@@ -37,28 +40,32 @@ h1{
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    font-family: 'Poppins';
     }
             
     .item {
         display: flex;
         flex-direction: row;
         align-items: center;
-        margin-bottom: 20px;
-        padding: 0px 20px;
+        margin: 20px;
+        padding: 20px 20px;
         gap: 20px;
         isolation: isolate;
         width: 900px;
         height: 70px;
         background: #FFFFFF;
         border-radius: 20px;
+        font-family: 'Poppins';
+        font-size: 20px;
       }
 
 button {
     background-color: #ffffff;
-    width: 50px;
-    height: 50px;
+    width: 70px;
+    height: 70px;
     border-radius: 10px;    
     color: rgb(36, 26, 26); 
+    font-family: 'Poppins';
     margin-left: 5px; 
     margin-right: 5px;  
     text-align: center;  
@@ -72,7 +79,8 @@ button {
     background-color: #ffffff;
     width: 70px;
     height: 70px;
-    border-radius: 16px;    
+    border-radius: 16px;
+    font-family: 'Poppins';    
     color: rgb(36, 26, 26); 
     margin-left: 5px; 
     margin-right: 5px;  
